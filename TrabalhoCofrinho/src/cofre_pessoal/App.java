@@ -35,7 +35,7 @@ public class App {
             System.out.println("    3 - LISTAR MOEDAS!");
             System.out.println("    4 - CALCULAR TOTAL DOS VALORES!");
             System.out.println("    5 - ENCERRAR PROGRAMA");
-            System.out.println("-------- RU: 3964448 --------");
+            System.out.println("-------- COFRINHO PESSOAL --------");
 
             // Try_Catch usado para tratar de erros globais
             try {
